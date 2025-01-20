@@ -1,0 +1,28 @@
+.footer {
+    background-color: #889E73;
+    color: #FFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+
+    & ul {
+
+        & li {
+            display: inline-block;
+            margin-right: 32px;
+
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+    }
+
+    & .logo-organo {
+        margin-left: 95px;
+    }
+
+    & .footer-text {
+        font-size: 18px;
+    }
+}
