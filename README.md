@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GabrielRHL/super-cars?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GabrielRHL/super-cars?style=for-the-badge)
 
-<img src="./imgs/petpaws-banner.png" alt="Exemplo imagem">
+<img src="/public/imgs/petpaws-banner.png" alt="Exemplo imagem">
 
 > O projeto PetPaws é voltado para donos de pets, onde os mesmos podem registrar seus pets e conhecer outros tutores.
 
