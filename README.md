@@ -10,11 +10,9 @@
 
 > O projeto PetPaws é voltado para donos de pets, onde os mesmos podem registrar seus pets e conhecer outros tutores.
 
-## 🔧 Ajustes e melhorias
+## 🚀 Tecnologias Futuras (Se houver):
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [ ] Responsividade
+- Responsividade
 
 ## 🔨 Funcionalidades
 
@@ -24,12 +22,22 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 💻 Tecnologias
 
-- `React`
+- `React.js`
 - `Node`
 - `JavaScript`
 - `Git/GitHub`
 - `HTML`
 - `CSS`
+
+## 📝 Contribuição
+
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request se encontrar algum problema ou tiver uma sugestão.
+
+1. Faça um **fork** do projeto.
+2. Crie um **branch** para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Faça o **commit** das suas mudanças (`git commit -m 'Adicionei uma nova feature!'`).
+4. Faça o **push** para o branch (`git push origin feature/nome-da-feature`).
+5. Abra um **Pull Request**.
 
 ## 📁 Como utlizar
 
